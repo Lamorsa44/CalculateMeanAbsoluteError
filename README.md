@@ -2,6 +2,8 @@
 
 This application calculates the Mean Absolute Error (MAE) between actual values and predicted values. MAE is a common metric used in statistics and machine learning to evaluate the accuracy of predictions.
 
+### ***Only use numbers or it breaks😈***
+
 ## What is Mean Absolute Error?
 
 Mean Absolute Error is the average of the absolute differences between predicted values and actual values. It measures the average magnitude of errors in a set of predictions, without considering their direction.
